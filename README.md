@@ -1,5 +1,5 @@
 # HACKTHEBOX-stocker
-write up for stocker machine on hackthebox.
+A very simple, detailed, step by step write up for stocker machine on hackthebox.
 ## First step:
 Join the machine and connect to the lab.
 Connected to the machine:
